@@ -27,7 +27,7 @@
     color: #f5083b;
   }
   .title{
-    color: blue;
+    color: #f5083b;
   }
 
 </style>
