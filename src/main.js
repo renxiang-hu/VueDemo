@@ -1,8 +1,9 @@
 //1.按需导入createApp函数
 import {createApp} from "vue";
-
+// import App from './components/04.props/App.vue'
+import App from "./components/05.style/App.vue";
 //2.导入待渲染的App.vue组件
-import App from "./App.vue";
+// import App from "./App.vue";
 
 //3.调用createApp函数，创建App应用实例
 const app = createApp(App);

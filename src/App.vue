@@ -12,7 +12,7 @@
       return{
         username: 'hurenxiang',
         count:0
-        
+
       }
     },
     methods: {
